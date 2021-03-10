@@ -60,55 +60,6 @@
                      <th colspan="2"> Available Videos </th>
                      <th> From </th>
                    </tr>
-                   <!--<tr class="u-tb-tr">
-                     <td> 1 </td>
-                     <td> User1 </td>
-                     <td> user@user.com </td>
-                     <td> Pending </td>
-                   </tr>
-                   <tr class="u-tb-tr">
-                     <td> 2 </td>
-                     <td> User2 </td>
-                     <td> use2@user.com </td>
-                     <td> Successful </td>
-                   </tr>
-                   <tr class="u-tb-tr">
-                     <td> 3 </td>
-                     <td> User3 </td>
-                     <td> use3@user.com </td>
-                     <td> Pending </td>
-                   </tr>
-                   <tr class="u-tb-tr">
-                     <td> 4 </td>
-                     <td colspan="2">
-                       <iframe id="player" type="text/html" width="420" height="315" src="http://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0"></iframe>
-                     </td>
-                     <td> User3 </td>
-                   </tr>-->
-                   <!--<div class="video-container">
-                     <iframe src="https://www.youtube.com/embed/klZNNUz4wPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                   </div>-->
-                   <!--<tr class="u-tb-tr">
-                     <td> 5 </td>
-                     <td colspan="2" id="tvc">
-                       <iframe src="https://www.youtube.com/embed/klZNNUz4wPQ" width="420" height="215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                     </td>
-                     <td>
-                       <span class="span1"><u>Section</u> - use3@user.com</span>
-                       <span class="span2"><u>Course Id</u> - usfsdser.com</span>
-                     </td>
-                   </tr>
-                   <tr class="u-tb-tr">
-                     <td> 6 </td>
-                     <td colspan="2" id="tvc">
-                       <iframe src="https://www.youtube.com/embed/ygf9cukqHW8" width="420" height="215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                     </td>
-                     <td>
-                       <span class="span1"><u>Section</u> - use3@user.com</span>
-                       <span class="span2"><u>Course Id</u> - usfsdser.com</span>
-                     </td>
-                   </tr>-->
-
                  </table>
              </form>
 
