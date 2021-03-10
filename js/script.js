@@ -5,12 +5,10 @@ $(document).ready(function () {
   var sc3 = [331,322];
   var sc4 = [442,448];
 
-  $('.s1').on('change',function() {
-    console.log('its changed;');
+  $('.s1').on('change',function() { 
 
     var item = $(this).find("option:selected").val();
-    var sec = item;
-    console.log('item-'+sec);
+    var sec = item;    
     $(".d2").empty();
     $(".d2").css({'display':'block', "margin-top": "20px"});
 
@@ -36,31 +34,14 @@ $(document).ready(function () {
     myList.append( myItems.join( "" ) );
 
     $('.s2').on('change',function(){
-      var id = $(this).find("option:selected").val();
-      console.log('id-'+id);
+      var id = $(this).find("option:selected").val();      
       $(".d3").empty();
       $(".d3").css({'display':'block', "margin-top": "20px"});
       $(".d3").append("<div class='d4'><input type='text' class='url' name='url' placeholder='Enter Youtube URL Here'/></div>");
 
       $('.d4 .url').on('change', function () {
-        var url = $(this).val();
-        console.log(url);
-
-        /*$.ajax({
-            type: "POST",
-            data: {se: sec, id: id, url: url},
-            url: "core/worker.php",
-            success: function(data){
-              alert(data);
-              console.log(data);
-            }
-        });*/
-
+        var url = $(this).val();        
       });
     });
   });
 });
-
-function red() {
-  //window.location.href = 'http://localhost/Intern/IIT%20Mumbai/core/worker.php';
-}
