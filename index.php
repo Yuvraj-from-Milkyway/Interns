@@ -13,6 +13,7 @@
     <section>
       <form class="f" action="core/worker.php" method="post">
         <div class="main-div">
+          <!--Main Container Div-->
           <div class="d1">
             <select class="s1" name="se">
               <option value="">Choose Your Section</option>
@@ -22,9 +23,11 @@
               <option value="4">||||</option>
             </select>
           </div>
+          <!--Course id dropdown Container Div-->
           <div class="d2">
 
           </div>
+          <!--input container-->
           <div class="d3">
 
           </div>
