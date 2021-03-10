@@ -14,7 +14,9 @@
    <body>
      <section>
        <div class="m-div">
+        <!--Inner Div In case if bootstrap is needed-->
          <div class="col-md-8 col-sm-8 col-8">
+          <!--Filter Section-->
            <fieldset class='field'>
              <legend class="filter">Filter results</legend>
              <div class="mfd">
@@ -46,7 +48,8 @@
            </fieldset>
          </div>
 
-         <div class="col-md-12 col-sm-12 col-12">
+        <!--Results container-->
+         <div class="col-md-12 col-sm-12 col-12">          
            <fieldset class='field'>
              <legend class="allus">Requested Content</legend>
 
