@@ -14,10 +14,11 @@ Project is created with:
 * Ajax
 	
 ## Setup
-To run this project, install it locally using :
+To run this project, install it locally :
+Put these files in your local server folder or public folder
 
-Open index.php
-then select Section & course id from dropdown menu
+Open index.php in your web browser
+then select Section & course id from dropdown menu (The user will provide course id, section and Youtube url as an input in a form. The data shall be saved in the database)
 an input box will be shown so that you can enter your desired youtube video's link
 this page will take you on next page where you will get all youtube videos saved on that section & course id.
 You can also filter those results using filter section where you can select the section and course id again
